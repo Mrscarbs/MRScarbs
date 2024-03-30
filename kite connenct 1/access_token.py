@@ -7,7 +7,7 @@ api_key = "246y3a7zlg83xv2l"
 
 secret_key = "2996e33pjuzh9mmzsoj2y4xs6fdjrmtu"
 
-request_token ="UyQ3UvALdRiRSCbH2N4H1Xj2gDeAepzk"
+request_token ="5JmC4TVbySD0zLLMkQ8UElklLlvHMKq5"
 
 kite = KiteConnect(api_key=api_key)
 

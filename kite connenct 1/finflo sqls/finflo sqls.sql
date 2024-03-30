@@ -3,7 +3,7 @@
 -- Host: localhost    Database: finflo_base_db
 -- ------------------------------------------------------
 -- Server version	8.0.36-0ubuntu0.22.04.1
-
+use finflo_base_db;
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;

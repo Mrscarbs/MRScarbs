@@ -34,15 +34,15 @@ def instrument_writer():
             print("Response data written to response_data.csv successfully.")
 
         column_names = [
-            'instrument_token', 'exchange_token', 'tradingsymbol', 'name', 'last_price',
-            'expiry', 'strike', 'tick_size', 'lot_size', 'instrument_type',
-            'segment', 'exchange'
+            'ninstrument_token', 'nexchange_token', 'ntradingsymbol', 'sname', 'nlast_price',
+            'sexpiry', 'nstrike', 'ntick_size', 'nlot_size', 'ninstrument_type',
+            'ssegment', 'sexchange'
         ]
 
         # Read CSV with specified column names
         instrument_csv = pd.read_csv("instrument_data.csv", quoting=csv.QUOTE_NONE,names=column_names)
         print(instrument_csv)
-        print(instrument_csv['exchange_token'])
+        print(instrument_csv['nexchange_token'])
         conn_string = 'mysql+pymysql://root:Karma100%@localhost/finflo_base_db'
         engine = create_engine(conn_string)
         instrument_csv.to_sql("tbl_instruments_info", engine, if_exists='replace' )
@@ -51,7 +51,7 @@ def instrument_writer():
     except requests.exceptions.RequestException as e:
         print("Error:", e)
 
-
+# instrument_writer()
 
 now = datetime.datetime.now()
 

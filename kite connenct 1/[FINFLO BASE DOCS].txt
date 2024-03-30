@@ -1,0 +1,17 @@
+							[FINFLO BASE DOCS]
+
+DATA OPTIMIZATION AND MAPPING:
+------------------------------
+
+1)historical data dose not go in the database but is retrived fromm the api during calculations of the ratios and the heatmaps
+2)websockets dont insert or add new rows but update existing rows ass soon as the new tick data is recived for all tickers
+3)new table with top gainers and loosers track
+3)all tables fetch the name of the ticker from the instrument token table
+
+========================================================================================================================================================================================================================================================================================
+
+API USED:
+---------
+kite connect devlopers api 
+
+========================================================================================================================================================================================================================================================================================
