@@ -1,0 +1,11 @@
+[package]
+name = "backtester"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+polars = "0.28.3"
+rusty-talib = { version = "0.1.0", features = ["overlap_studies"] }
+chrono = "0.4"
