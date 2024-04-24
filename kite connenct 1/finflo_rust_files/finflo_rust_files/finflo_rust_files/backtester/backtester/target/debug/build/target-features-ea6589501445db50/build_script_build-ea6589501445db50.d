@@ -1,0 +1,8 @@
+C:\finflo\MRScarbs\kite connenct 1\finflo_rust_files\finflo_rust_files\backtester\backtester\target\debug\build\target-features-ea6589501445db50\build_script_build-ea6589501445db50.exe: C:\Users\saumi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-features-0.1.6\build.rs C:\Users\saumi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-features-0.1.6\rustc-version.txt C:\Users\saumi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-features-0.1.6\target-features.txt C:\Users\saumi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-features-0.1.6\target-cpus.txt
+
+C:\finflo\MRScarbs\kite connenct 1\finflo_rust_files\finflo_rust_files\backtester\backtester\target\debug\build\target-features-ea6589501445db50\build_script_build-ea6589501445db50.d: C:\Users\saumi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-features-0.1.6\build.rs C:\Users\saumi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-features-0.1.6\rustc-version.txt C:\Users\saumi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-features-0.1.6\target-features.txt C:\Users\saumi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-features-0.1.6\target-cpus.txt
+
+C:\Users\saumi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-features-0.1.6\build.rs:
+C:\Users\saumi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-features-0.1.6\rustc-version.txt:
+C:\Users\saumi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-features-0.1.6\target-features.txt:
+C:\Users\saumi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-features-0.1.6\target-cpus.txt:
